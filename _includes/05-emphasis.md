@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+
+**Ambition is the Path to success**.
+Persistence is the vehicle you arrive in. – *Bill Bradley*
